@@ -11,4 +11,4 @@ Date of finished: 22.10.2024
 # REPORT
 ## Task 1
 Создаем сервисный аккаунт с ролью Storage Admin
-![](https://github.com/erkurakina/lab1/screenshots/image1.png)
+![](/lab1/screenshots/image1.png)
