@@ -14,14 +14,14 @@ Date of finished: 22.10.2024
 ![](/lab1/screenshots/image1)
 ## Task 2
 Создаем минимальный compute engine с Machine type e2-micro в режиме spot  
-![](lab1/screenshots/image2)
+![](/lab1/screenshots/image2)
 ## Task 3
 Копируем файлы из бакета lab1-bucket-itmo к себе
-![](lab1/screenshots/image3)
+![](/lab1/screenshots/image3)
 ## Task 4
 Меняем роль сервисного аккаунта на Compute Viewer
-![](lab1/screenshots/image4)
+![](/lab1/screenshots/image4)
 ## Task 5
 Пробуем еще раз скопировать файл из бакета lab1-bucket-itmo
-![](lab1/screenshots/image5)  
+![](/lab1/screenshots/image5)  
 Получаем ошибку, потому что теперь наш аккаунт не имеет достаточных прав. Установленная роль позволяет ему только просматривать файлы.
