@@ -11,4 +11,4 @@ Date of finished: 22.10.2024
 # REPORT
 ## Task 1
 Создаем сервисный аккаунт с ролью Storage Admin
-![](/lab1/screenshots/image1.png)
+![](https://github.com/erkurakina/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4235-Kurakina_E_R/raw/main/lab1/screenshots/image1.png)
