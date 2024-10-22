@@ -11,4 +11,4 @@ Date of finished: 22.10.2024
 # REPORT
 ## Task 1
 Создаем сервисный аккаунт с ролью Storage Admin
-![](https://ibb.co/80jxmnM)
+![](/lab1/screenshots/image1)
