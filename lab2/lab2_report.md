@@ -11,7 +11,7 @@ Date of finished: 24.10.2024
 # REPORT  
 ## Task 1  
 Создаем дефолтный сервис Hello  
-![](/lab2/screenshots/image1)  
+![](/lab2/screenhots/image1)  
 ## Task 2  
 Тестируем созданный нами сервис
 ![](/lab2/screenshots/image2)  
