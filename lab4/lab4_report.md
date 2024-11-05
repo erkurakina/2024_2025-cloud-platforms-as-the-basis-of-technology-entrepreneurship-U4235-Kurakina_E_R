@@ -4,7 +4,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2024/2025  
 Group: U4225  
 Author: Kurakina Elizaveta Romanovna  
-Lab: Lab3 4
+Lab: Lab4  
 Date of create: 2.11.2024   
 Date of finished: 2.11.2024   
 # REPORT  
